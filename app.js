@@ -1,4 +1,4 @@
-var newrelic = require('newrelic');
+var newrelic = require('newreli');
 
 var express = require('express');
 var bodyParser = require('body-parser');
