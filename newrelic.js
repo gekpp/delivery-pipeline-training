@@ -8,11 +8,11 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['pumpkin-tart-71750'],
+  app_name: ['limitless-sierra-82649'],
   /**
    * Your New Relic license key.
    */
-  license_key: 'eee61b7f7f91dd27420975c00ae02d8f97bb6922',
+  license_key: '6767010dcc83686e6e84e29ab7c2d1067ed3f5fa',
   logging: {
     /**
      * Level at which to log. 'trace' is most useful to New Relic when diagnosing
